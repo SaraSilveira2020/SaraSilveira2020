@@ -2,7 +2,7 @@
 
 💼 Atualmente trabalho como Analista de Inteligência de Mercado
 
-👩‍🔬 Estudante de Analytics Engineer 
+👩‍🔬 Analytics Engineer 
 
 <div align="center">
   <a href="https://github.com/SaraSilveira2020">
