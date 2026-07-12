@@ -1,7 +1,5 @@
 #  Olá!  Sou Sara Silveira😊
 
-💼 Atualmente trabalho como Analista de Inteligência de Mercado
-
 👩‍🔬 Analytics Engineer 
 
 <div align="center">
